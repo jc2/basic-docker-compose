@@ -26,4 +26,4 @@
 - [x] Add statics
 - [ ] Add SSL
 - [ ] Improve collectstatic flow
-- [ ] Add env vars to docker env vars
+- [x] Add env vars to docker env vars
